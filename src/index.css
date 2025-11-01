@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* A sensible default font */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
