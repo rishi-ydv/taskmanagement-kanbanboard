@@ -5,7 +5,7 @@ pipeline {
 
     tools {
         // Use the exact name from your Jenkins Tools config
-        nodejs 'NodeJS 22' 
+        nodejs 'NodeJS-22' 
     }
 
     stages {
