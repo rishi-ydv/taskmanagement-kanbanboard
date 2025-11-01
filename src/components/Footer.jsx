@@ -7,7 +7,7 @@ export default function Footer() {
   return (
     <footer className="mt-12 p-6 text-center text-sm text-slate-500">
       <p>
-        © {currentYear} Kanban Board. Created for DevOps Project.
+       © {currentYear} Kanban Board. **CI/CD Pipeline Test SUCCESS!**
       </p>
       <p className="mt-1">
         View on{" "}
